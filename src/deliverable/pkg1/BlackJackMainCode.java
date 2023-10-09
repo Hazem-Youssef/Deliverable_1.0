@@ -5,14 +5,14 @@
  * Date: October 9, 2023
  */
 
-package ca.sheridancollege.project;
+package src.deliverable.pkg1;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
-import ca.sheridancollege.project.BlackjackCard;
-import ca.sheridancollege.project.BlackjackDeck;
+import src.deliverable.pkg1.BlackjackCard;
+import src.deliverable.pkg1.BlackjackDeck;
 
 public class BlackjackMainCode {
     public static void main(String[] args) {
