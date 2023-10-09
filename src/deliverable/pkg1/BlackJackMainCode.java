@@ -14,7 +14,7 @@ import java.util.Scanner;
 import src.deliverable.pkg1.BlackjackCard;
 import src.deliverable.pkg1.BlackjackDeck;
 
-public class BlackjackMainCode {
+public class BlackJackMainCode {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
